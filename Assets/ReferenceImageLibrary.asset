@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4672445384779835950
+  m_GuidHigh: 7188389471761356962
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5722007949896843550
+      m_GuidHigh: 5153074131638327972
+    m_SerializedTextureGuid:
+      m_GuidLow: 16187272602362883034
+      m_GuidHigh: 4258622167497918648
+    m_Size: {x: 0.061, y: 0.08580398}
+    m_SpecifySize: 1
+    m_Name: j_corazones
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4741506317405978144
+      m_GuidHigh: 1260852887160503939
+    m_SerializedTextureGuid:
+      m_GuidLow: 14552441956281435459
+      m_GuidHigh: 11246653815451583354
+    m_Size: {x: 0.061, y: 0.085232876}
+    m_SpecifySize: 1
+    m_Name: k_hearts
+    m_Texture: {fileID: 0}
