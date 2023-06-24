@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2382995421404727920}
   m_Layer: 0
   m_Name: j_corazones
-  m_TagString: Untagged
+  m_TagString: Createable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
